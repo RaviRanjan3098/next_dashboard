@@ -1,5 +1,4 @@
 "use client";
-import { Provider } from 'react-redux';
 import "../cmp/sidebarCss.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Sidebar from '@/cmp/sidebar';
